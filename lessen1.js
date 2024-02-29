@@ -1,5 +1,4 @@
-//
-const data = new Date();
-//  Create New Date
-console.log(data);
-// log date
+function createNewDate() {
+  return new Date();
+}
+const date = createNewDate();
