@@ -4,3 +4,4 @@ function createUser(username, password) {
     password,
   };
 }
+const user = createUser("ali", "1234");
