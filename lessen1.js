@@ -1,5 +1,5 @@
 //
 const data = new Date();
-//  create new data
+//  create new date
 console.log(data);
-// log data
+// log date
