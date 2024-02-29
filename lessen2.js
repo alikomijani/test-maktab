@@ -1,2 +1,7 @@
-// this is lesson 2
-// i am rashed
+function createUser(username, password) {
+  return {
+    username,
+    password,
+  };
+}
+const user = createUser("ali", "1234");
